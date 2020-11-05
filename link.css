@@ -39,3 +39,12 @@ a:target {
 #description {
     height: 600px
 }
+
+#tirp {
+    width: 300px;
+    opacity: 0.5;
+}
+
+#trip: hover {
+    opacity: 1;
+}
