@@ -17,9 +17,13 @@ a:hover {
     color: antiquewhite;
 }
 
+a: visited{
+    color: antiquewhite;
+}
+
 a:target {
     background-color: darkgoldenrod;
-    color: antiquewhite
+    color: antiquewhite;
 }
 
 a:active{
