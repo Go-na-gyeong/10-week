@@ -12,3 +12,9 @@
     border: 1px solid;
     padding-left: 10px;
 }
+
+.img_border {
+    width: 400px;
+    height: 300px;
+    border: 1px solid;
+}
