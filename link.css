@@ -9,6 +9,10 @@ a {
    
 }
 
+a:link{
+    color: aquamarine;
+}
+
 a:hover {
     color: antiquewhite;
 }
@@ -16,6 +20,10 @@ a:hover {
 a:target {
     background-color: darkgoldenrod;
     color: antiquewhite
+}
+
+a:active{
+    color: darkorange;
 }
 
 #description {
