@@ -13,12 +13,17 @@ a:link{
     color: aquamarine;
 }
 
+a: visited{
+    color: antiquewhite;
+}
+
 a:hover {
     color: antiquewhite;
 }
 
-a: visited{
-    color: antiquewhite;
+
+a:active{
+    color: darkorange;
 }
 
 a:target {
@@ -26,8 +31,9 @@ a:target {
     color: antiquewhite;
 }
 
-a:active{
-    color: darkorange;
+
+#222{
+    
 }
 
 #description {
