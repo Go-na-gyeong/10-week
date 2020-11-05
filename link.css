@@ -1,5 +1,23 @@
+#dummy {
+    height: 1260px;
+}
+
+
 a {
-    text-decoration-line: none;
+    text-decoration: none;
     color: crimson;
    
+}
+
+a:hover {
+    color: antiquewhite;
+}
+
+a:target {
+    background-color: darkgoldenrod;
+    color: antiquewhite
+}
+
+#description {
+    height: 600px
 }
