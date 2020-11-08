@@ -28,8 +28,9 @@ ul {
 
 
 ol{
-    width:200px;
-}
+    widows: 200px;
+    margin-left: auto;
+    margin-right: auto;}
 
 
 
