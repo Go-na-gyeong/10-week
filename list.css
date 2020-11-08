@@ -1,13 +1,11 @@
- p {
-    color: #222;
-    width:400px;
-    
+
+ul {
+    width: 200px;
 }
 
 .list_description {
-    border-bottom: 1px solid
+    border-bottom: 0px
 }
-
 .disc_list{
     list-style: disc;
 }
@@ -26,6 +24,13 @@
 .none_bullet{
     list-style: none;
 }
+}
+
+
+ol{
+    width:200px;
+}
+
 
 
 ol li{
