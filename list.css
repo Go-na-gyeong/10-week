@@ -24,12 +24,11 @@ ul {
 .none_bullet{
     list-style: none;
 }
-}
 
 
-ol{
-    widows: 200px;
-    margin-left: auto;
+
+ol{ width: 200px;
+    margin-left:auto;
     margin-right: auto;}
 
 
